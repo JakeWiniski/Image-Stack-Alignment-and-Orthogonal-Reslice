@@ -56,7 +56,3 @@ pip install SimpleITK numpy matplotlib
 - Registration uses a mean-squares similarity metric, which assumes the slices share the
   same intensity characteristics. For multi-modal or strongly varying intensities, a
   metric such as Mattes mutual information may perform better.
-
-## License
-
-Released under the [MIT License](LICENSE).
